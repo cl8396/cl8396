@@ -1,4 +1,8 @@
-LEARNING HTML CSS JAVASCRIPT
+- HTML
+- CSS
+- Unix CLI
+
+Currently learning ES6 Javascript.
 
 <!---
 cl8396/cl8396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
