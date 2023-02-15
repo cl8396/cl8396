@@ -1,3 +1,5 @@
+Hey! Good to see you. Pull up a pew and let's have a gander.
+
 - HTML
 - CSS
 - Unix CLI
