@@ -4,6 +4,7 @@ Hey! Good to see you. Pull up a pew and let's have a gander.
 - CSS, SASS
 - Unix CLI
 - Javascript
+- React.js
 
 
 <!---
